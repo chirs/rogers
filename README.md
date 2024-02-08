@@ -1,2 +1,8 @@
-Starting by transcribing old war letters from my grandfather.
+
+Genealogy repo.
+
+images/ - scanned photos
+letters/ - mostly OL's letters to his family from WWII.
+
+
 
